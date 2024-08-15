@@ -1,0 +1,5 @@
+{
+  "name": "HTML To Text conversion example",
+  "value": "<p><span style=\"font-weight: bold;\">This is bold text</span>,<i>this is italic text</i>,<span style=\"text-decoration: underline;\">this is underlined text</span>, and<a href=\"https://www.example.com\" style=\"color: blue; text-decoration: underline;\">this is a hyperlink</a>.</p>"
+}
+
